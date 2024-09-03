@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
     <head>
         <style>
@@ -9,7 +10,7 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Exploration of the History of Computers and Intro to IT</title>
-        <h1> Exploration of the History of Computers and Intro to IT </h1>
+        <h1> Exploration of the History of Computers and Intro to IT &#128187 </h1>
         <p><small><u> --&#128511; <b> A blog website created by Dion Andrei G. Quiamzon. </b> &#128511;-- </u></small></p> 
 
     </head>
@@ -33,5 +34,18 @@
         <p> Simply put, networking is a way for computers and devices to talk over networks. That network links perhaps two nearby computers and maybe millions of devices thousands of miles away access in the internet. When we connected with networking then it means now information can be shared online, webs will connect and online communication among peoples. Main network elements are routers, that enable communication among devices and pass the data from one location to another. </p>
         <h2> Conclusion </h2>
         <p> If you understand IT hardware, software and networking—except for all the new capabilities that come with Web 2. These concepts are vital for you irrespective of whether your planning to put in a career into technology or just want to know how things work. Considering the rapid evolution of technology, it is important for you to understand some kind of IT basics as this will go a long way in enabling you to move along with an ever-changing digital ecosystem. </p>
+        <div style="border: 2px solid black; padding: 10px;">
+            About me &#xf406;
+            My name is Dion Andrei G. Quiamzon, currently a first year student in UPHSD on the course of Computer Science. Currently learning the basics of programming in Python, and I'm looking further to learn more programming languages.  
+        </div>
+        <style>
+            .image-border {
+              border: 3px solid #191b19;
+              border-radius: 10px;
+            }
+          </style>
+          <center>
+          <img src="yesme.png" alt="Dion Andrei G. Quiamzon" class="image-border"> </center>
+
     </body>
     </html>

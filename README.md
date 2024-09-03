@@ -1,11 +1,6 @@
 <html lang="en">
     <head>
-        <style>
-            body 
-            {
-              font-family: "Brush Script MT", cursive;
-            }
-            </style>  
+        
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Exploration of the History of Computers and Intro to IT</title>

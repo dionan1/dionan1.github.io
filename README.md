@@ -1,6 +1,11 @@
 <html lang="en">
     <head>
-        
+        <style>
+            body 
+            {
+              font-family: "Brush Script MT", cursive;
+            }
+            </style>  
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Exploration of the History of Computers and Intro to IT</title>
@@ -32,12 +37,5 @@
             About me &#xf406;
             My name is Dion Andrei G. Quiamzon, currently a first year student in UPHSD on the course of Computer Science. Currently learning the basics of programming in Python, and I'm looking further to learn more programming languages.  
         </div>
-        <style>
-            .image-border {
-              border: 3px solid #191b19;
-              border-radius: 10px;
-            }
-          </style>
-
     </body>
     </html>

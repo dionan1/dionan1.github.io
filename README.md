@@ -9,7 +9,7 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Exploration of the History of Computers and Intro to IT</title>
-        <h1> Exploration of the History of Computers and Intro to IT &#128187 </h1>
+        <h1> Exploration of the History of Computers and Intro to IT </h1>
         <p><small><u> --&#128511; <b> A blog website created by Dion Andrei G. Quiamzon. </b> &#128511;-- </u></small></p> 
 
     </head>
